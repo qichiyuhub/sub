@@ -1,3 +1,6 @@
+# 本项目为自己部署使用，如需使用请访问原项目仓库
+- **SubsTracker**: [SubsTracker](https://github.com/wangwangit/SubsTracker)
+
 # SubsTracker - 订阅管理与提醒系统
 
 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram,企业微信等发送及时提醒。
